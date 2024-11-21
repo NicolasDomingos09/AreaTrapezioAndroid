@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AreaTrapezio</string>
+    <string name="nome">Nicolas Domingos --- RA: 1110482322026</string>
+    <string name="base_maior">Insira o valor da base maior</string>
+    <string name="base_menor">Insira o valor da base menor</string>
+    <string name="altura">Insira o valor da altura</string>
+    <string name="area">Área</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+</resources>
